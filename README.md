@@ -5,6 +5,11 @@ Yes. Ubisoft account got hacked. According in this screenshot, Ubisoft account g
 No. Don't panic. Ubisoft account maybe hacked by someone.
 
 # How to protect yourself?
-Firstly, don't click Ubisoft twitter account's link until hacked account has resolved and delete tweet. Secondly, spread everyone to protect themselves account gets hacked
+Firstly, don't click Ubisoft twitter account's link until hacked account has resolved and delete tweet. Secondly, spread everyone to protect themselves account gets hacked.
+
+# Where's NeseOS's shared tweet:
+Look in this issue to see url:
+https://github.com/NeseOSCorporation/ubisoft-account-hacked/issues/2
+or see twitter: https://twitter.com/NeseOSCorp/status/1760337539351695594
 
 ![Ubisoft hacked](https://github.com/NeseOSCorporation/ubisoft-account-hacked/assets/160748944/f5236f56-1c97-42b7-9cb3-ac482505a917)
