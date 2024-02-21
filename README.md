@@ -12,4 +12,6 @@ Look in this issue to see url:
 https://github.com/NeseOSCorporation/ubisoft-account-hacked/issues/2
 or see twitter: https://twitter.com/NeseOSCorp/status/1760337539351695594
 
+Stay safe everyone. We recommended to protect your all accounts!
+
 ![Ubisoft hacked](https://github.com/NeseOSCorporation/ubisoft-account-hacked/assets/160748944/f5236f56-1c97-42b7-9cb3-ac482505a917)
