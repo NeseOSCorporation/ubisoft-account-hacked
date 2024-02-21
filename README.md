@@ -1,7 +1,7 @@
 # Ubisoft twitter (X) account got hacked?
 Yes. Ubisoft account got hacked. According in this screenshot, Ubisoft account got hacked and posted malicious website.
 
-# Do we panic?
+# Should be panic?
 No. Don't panic. Ubisoft account maybe hacked by someone.
 
 # How to protect yourself?
